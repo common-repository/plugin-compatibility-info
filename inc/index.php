@@ -1,0 +1,1 @@
+<?php // Chuck Norris writes code that optimizes itself
